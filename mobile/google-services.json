@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "47354950365",
+    "project_id": "health-application-eacd1",
+    "storage_bucket": "health-application-eacd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47354950365:android:e31085f317b0446443e134",
+        "android_client_info": {
+          "package_name": "com.example.healthapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa-U8jqGav0t_wEdHBXyZzW5tlG4uRvFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47354950365:android:6b0f3c95671241e043e134",
+        "android_client_info": {
+          "package_name": "com.maha.weatherwizard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa-U8jqGav0t_wEdHBXyZzW5tlG4uRvFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47354950365:android:fbc29c2591a2dca243e134",
+        "android_client_info": {
+          "package_name": "taif.example.kkhrpr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa-U8jqGav0t_wEdHBXyZzW5tlG4uRvFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
